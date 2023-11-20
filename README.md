@@ -30,6 +30,13 @@ After installation, use the application as follows:
 3. Answer the prompts that appear in your terminal.
 4. After completion, a README.md file will be generated in the project directory.
 
+## Demo & Links
+
+- Click here to see a [Video Demo](./assets/video/demo.mp4).
+- Click here to see the [Sample README](README-output.md).
+- Click here for the [Github Repo](https://github.com/KobayashiKerfuffle/varnas-readme-generator.git).
+- Click here for the [Github Page](https://kobayashikerfuffle.github.io/varnas-readme-generator/).
+
 ## Features
 
 - Interactive CLI prompts for project details.
